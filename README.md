@@ -3,6 +3,8 @@ cosmo
 
 The OSAF mirror
 
+VA branch is va, version is tagged as [v1.3.0-va](https://github.com/openmash/cosmo/tree/v1.3.0-va)
+
 ## Building and deploying
 
 1.  Checkout cosmo from https://github.com/openmash/cosmo  
